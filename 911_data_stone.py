@@ -222,4 +222,3 @@ plt.figure(figsize=[15,6])
 sns.clustermap(mow,cmap='magma')
 
 
-# # A special thanks to Jose Portilla Sir, for his wonderful Lectures
